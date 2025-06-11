@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.2.0",
-  "downloadUrl": "https://seusite.com/download/versao_1.2.0.exe",
+  "latestVersion": "1.2.1",
+  "downloadUrl": "https://cdn.discordapp.com/attachments/1375262093271371808/1382175574134493334/Memory.dll?ex=684a32d0&is=6848e150&hm=4c9fb7d8069278a286a3b0369b103b57086c1045e362bdd11283a0a04ea27f9d&",
   "changelog": [
     "Correção de bugs importantes",
     "Melhoria na interface do usuário",
     "Nova funcionalidade X adicionada"
+    "Novo sistema de responsividade"
   ]
 }
